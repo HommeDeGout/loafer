@@ -1,0 +1,212 @@
+[2024-02-09T00:35:00.255Z] info: docker.yaml was copied to the config folder
+[2024-02-09T00:35:00.258Z] info: services.yaml was copied to the config folder
+[2024-02-09T00:35:00.261Z] info: bookmarks.yaml was copied to the config folder
+[2024-02-09T00:35:00.282Z] info: widgets.yaml was copied to the config folder
+[2024-02-09T00:35:00.286Z] info: custom.css was copied to the config folder
+[2024-02-09T00:35:00.290Z] info: custom.js was copied to the config folder
+[2024-02-09T00:35:00.323Z] info: kubernetes.yaml was copied to the config folder
+[2024-02-09T17:28:34.175Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:34.176Z] error: YAMLException: bad indentation of a sequence entry (7:13)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |         href: http://vscode.teleporteur.loca ...
+-----------------^
+ 8 |         description: IDE développé par Micro ...
+ 9 |         icon: vscode.png
+[2024-02-09T17:28:34.180Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:34.180Z] error: YAMLException: bad indentation of a sequence entry (7:13)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |         href: http://vscode.teleporteur.loca ...
+-----------------^
+ 8 |         description: IDE développé par Micro ...
+ 9 |         icon: vscode.png
+[2024-02-09T17:28:34.363Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:34.363Z] error: YAMLException: bad indentation of a sequence entry (7:13)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |         href: http://vscode.teleporteur.loca ...
+-----------------^
+ 8 |         description: IDE développé par Micro ...
+ 9 |         icon: vscode.png
+[2024-02-09T17:28:57.609Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:57.610Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:28:57.768Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:57.768Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:28:58.008Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:58.008Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:28:58.510Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:58.510Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:28:59.010Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:28:59.011Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - Outils de développement:
+ 6 |     - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:29:33.997Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:33.997Z] error: YAMLException: bad indentation of a sequence entry (7:9)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |     href: http://vscode.teleporteur.loca ...
+-------------^
+ 8 |     description: IDE développé par Micro ...
+ 9 |     icon: vscode.png
+[2024-02-09T17:29:34.153Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:34.153Z] error: YAMLException: bad indentation of a sequence entry (7:9)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |     href: http://vscode.teleporteur.loca ...
+-------------^
+ 8 |     description: IDE développé par Micro ...
+ 9 |     icon: vscode.png
+[2024-02-09T17:29:35.168Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:35.168Z] error: YAMLException: bad indentation of a sequence entry (7:9)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |     href: http://vscode.teleporteur.loca ...
+-------------^
+ 8 |     description: IDE développé par Micro ...
+ 9 |     icon: vscode.png
+[2024-02-09T17:29:59.569Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:59.569Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:29:59.727Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:59.727Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:29:59.943Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:29:59.943Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:30:00.429Z] error: Failed to load services.yaml, please check for errors
+[2024-02-09T17:30:00.429Z] error: YAMLException: bad indentation of a sequence entry (7:11)
+
+ 4 | 
+ 5 | - "Outils de développement":
+ 6 |   - Visual Studio Code
+ 7 |       href: http://vscode.teleporteur.loca ...
+---------------^
+ 8 |       description: IDE développé par Micro ...
+ 9 |       icon: vscode.png
+[2024-02-09T17:30:41.122Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-server')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-02-09T17:30:56.405Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-server')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-02-09T17:30:56.577Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-server')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-02-09T17:31:42.496Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-server')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)
+[2024-02-09T17:33:22.842Z] error: <dockerStatusService> TypeError: Cannot read properties of null (reading 'my-server')
+    at getDockerArguments (/app/.next/server/chunks/7163.js:44:14)
+    at handler (/app/.next/server/pages/api/docker/status/[...service].js:88:96)
+    at Object.apiResolver (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/api-utils/node.js:366:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:481:9)
+    at async Object.fn (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/next-server.js:741:37)
+    at async Router.execute (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/router.js:252:36)
+    at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
+    at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
+    at async Server.<anonymous> (/app/server.js:19:5)

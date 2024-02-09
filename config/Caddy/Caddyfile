@@ -1,0 +1,7 @@
+http://vscode.teleporteur.localhost {
+	reverse_proxy openvscode-server:3001
+}
+
+http://teleporteur.localhost {
+	reverse_proxy homepage:3000
+}

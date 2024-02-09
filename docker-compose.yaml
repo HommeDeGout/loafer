@@ -1,0 +1,30 @@
+version: "3.3"
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - 3000:3000
+    volumes:
+      - ./config/homepage:/app/config # Make sure your local config directory exists
+      - /var/run/docker.sock:/var/run/docker.sock # (optional) For docker integrations
+  caddy:
+    image: caddy
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./config/Caddy/Caddyfile:/etc/caddy/Caddyfile
+    depends_on:
+      - homepage
+      - openvscode-server
+  openvscode-server:
+    hostname: vscode
+    command: --port 3001
+    image: gitpod/openvscode-server
+    container_name: openvscode
+    volumes:
+      - ./user-config:/home/workspace:cached
+    ports: 
+      - 3001:3001
+    restart: unless-stopped
