@@ -7,3 +7,7 @@
         icon: vscode.png
         href: http://vscode.teleporteur.localhost
         description: IDE (Integrated Development Environment) développé par Microsoft.
+    - Terminal:
+        icon: mdi-console
+        href: http://terminal.localhost
+        description : On a toujours besoin d'un terminal.

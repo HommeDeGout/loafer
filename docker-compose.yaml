@@ -15,9 +15,6 @@ services:
       - "80:80"
     volumes:
       - ./config/Caddy/Caddyfile:/etc/caddy/Caddyfile
-    depends_on:
-      - homepage
-      - openvscode-server
   openvscode-server:
     hostname: vscode
     command: --port 3001
@@ -28,3 +25,15 @@ services:
     ports: 
       - 3001:3001
     restart: unless-stopped
+  tabby-gateway:
+    command: --host 0.0.0.0 --no-auth
+    ports:
+      - 9000:9000
+    image: 'ghcr.io/eugeny/tabby-connection-gateway:master'
+  terminal:
+    hostname: terminal
+    image: 'tsl0922/ttyd:latest'
+    command: 'ttyd -p 3002 -W bash'
+    ports:
+      - 3002:3002
+

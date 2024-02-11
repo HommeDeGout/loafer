@@ -210,3 +210,4 @@
     at async NextNodeServer.run (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:365:29)
     at async NextNodeServer.handleRequest (/app/node_modules/.pnpm/next@12.3.4_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/server/base-server.js:303:20)
     at async Server.<anonymous> (/app/server.js:19:5)
+[2024-02-11T16:43:51.579Z] info: bookmarks.yaml was copied to the config folder

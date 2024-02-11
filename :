@@ -1,9 +1,0 @@
----
-# For configuration options and examples, please see:
-# https://gethomepage.dev/latest/configs/services
-
-- Outils de développement:
-    - Visual Studio Code
-        href: http://vscode.teleporteur.localhost
-        description: IDE développé par Microsoft.
-        icon: vscode.png
