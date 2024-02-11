@@ -1,7 +1,0 @@
-# declare users
-users:
-    - name: 'Clem-Fern'
-      token: 'dfb3863c-4b06-4fb9-8c47-e2d2c6b5bb29'     # Unique uuidv4 token (https://www.uuidgenerator.net/version4)
-
-    - name: 'Eugeny'
-      token: 'b841dbba-42c6-4161-9735-dc1303583743'     # Unique uuidv4 token (https://www.uuidgenerator.net/version4)
